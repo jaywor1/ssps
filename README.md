@@ -1,4 +1,4 @@
 # ssps
 
 ## Subjects
--   ### [Law](./subjects/law.md)
+-   ### [Law 📜](./subjects/law.md)
