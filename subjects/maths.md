@@ -102,3 +102,32 @@ $$ n^2 + 2n - 24 = 0 $$
 
 $$ D = b^2 - 4ac = 4 + 96 = 100 $$
 
+$$ n_1,n_2 = { -2 \pm \sqrt{4+96} \over 2} = {-2 \pm 10 \over 2} $$
+
+$$ n_1 = -6 $$
+$$ n_2 = 4 $$
+
+Podmínka rovnice:
+$$ n \ge 1;n \in Z $$
+
+Řešení rovnice:
+
+$$ K = \{ 4 \} $$
+
+## Kombinatorika - Kombinační číslo
+
+$$ {\binom{n}{k}} = {n! \over k!(n-k)!}$$
+
+"n nad k"
+
+$$ {n,k \in N_0};{n \ge k} $$
+
+$$ {\binom{n}{n}} = 1 $$
+
+$$ {\binom{n}{0}} = 1 $$
+
+$$ {\binom{n}{n-1}} = n $$
+
+$$ {\binom{n}{1}} = n $$
+
+$$ {\binom{n}{n-k}} = {n! \over (n-k)!(k)!} = {\binom{n}{k}} $$
