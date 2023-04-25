@@ -108,11 +108,12 @@ $$ n_1 = -6 $$
 $$ n_2 = 4 $$
 
 Podmínka rovnice:
+
 $$ n \ge 1;n \in Z $$
 
 Řešení rovnice:
 
-$$ K = \{ 4 \} $$
+$$ K = \lbrace 4 \rbrace  $$
 
 ## Kombinatorika - Kombinační číslo
 
