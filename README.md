@@ -6,3 +6,4 @@
 -   ### [Economics 📈](./subjects/economics.md)
 -   ### [Maths 🧮](./subjects/maths.md)
 -   ### [Physics 🍎](./subjects/physics.md)
+-   ### [Info ❓](./subjects/info.md)
