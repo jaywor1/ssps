@@ -132,3 +132,64 @@ $$ {\binom{n}{n-1}} = n $$
 $$ {\binom{n}{1}} = n $$
 
 $$ {\binom{n}{n-k}} = {n! \over (n-k)!(k)!} = {\binom{n}{k}} $$
+
+### Rovnice s kombinačními čísly
+
+Podm. + řešte:
+
+Podmínka:
+
+$$ x \ge 2 ; x \in N_0 $$
+
+Řešení:
+
+$$ \binom{10}{1} \binom{x}{x-2} - \binom{x+3}{x+1} = 15 \binom{x}{0} $$
+
+$$ 10 * \binom{x}{2} - \binom{x+3}{x+1} = 15 $$
+
+$$ {10 * x! \over 2!(x-2)!} - {(x+3)! \over (x+1)!2!} = 15 $$
+
+$$ {10 * x * (x-1) \over 2} - {(x+3)(x+2) \over 2} = 15  $$
+
+$$ 10x^2 - 10x - x^2 - 5x - 6 = 15 $$
+
+$$ 9x^2 - 15x - 6 = 30  $$
+
+$$ 9x^2 - 15x - 36 = 0 $$
+
+$$ 3x^2 - 5x - 12 = 0 $$
+
+Řešení kvadratické rovnice:
+
+$$ 3x^2 - 5x - 12 = 0 $$
+
+$$ D = 25 + 4*3*12 = 169 $$
+
+$$ n_1,n_2 = { 5 \pm \sqrt{169} \over 6} = { 5 \pm 13 \over 6}  $$
+
+$$ n_1 = -{4 \over 3} $$
+
+$$ n_2 = 3 $$
+
+$$ K = \lbrace 3 \rbrace $$ 
+
+
+Podm. + řešte:
+
+$$ \binom{x}{1} = 2x - 3 - \binom{x-3}{x-4} $$
+
+Podmínky: 
+
+$$ x \ge 4 ; x \in Z $$
+
+$$ x = 2x - 3 - \binom{x-3}{x - 4} $$
+
+$$ x = 2x - 3 - {(x-3)! \over (x-4)!} $$
+
+$$ x = 2x -3 - (x-3) $$
+
+$$ x -3 -x + 3 = 0 $$
+
+$$ 0 = 0 $$
+
+$$ K = \lbrace 4 ; 5 ; 6 ; ... \rbrace $$
