@@ -15,6 +15,8 @@
     
 ### V.O.S. (2 společníci)
 - Společenská smlouva
+- Typ: osobní
+- Zapsaná v obchodním rejstříku
 - Komplementář
     - vede společnost
     - vkládá
@@ -23,6 +25,34 @@
     - ručí vkladem
     - nevede, neřídí, nerozhoduje
 
-### S.R.O
+### S.R.O.
+- Právnická osoba v obchodním rejstříku
 - 1 - 50 společníků
 - vklad je povinný
+- vklad minimálně v 1 Kč
+- Valná hromada (v případě jednoho zakladatel)
+    - Určuje stanovy (společenská smlouva)
+    - Odměňuje jednatele
+    - rozdělení zisku
+    - organizace
+- Jednatel (může být právnická osoba)
+- Dozorčí rada (nepovinná)
+    - kontrola valné hromady
+
+### Založení x vznik
+- společnost vzniká až v zápisu do obchodního rejstříku
+
+### A.S.
+- akcie == druh cenného papíru, vyjadřuje podíl majetku podniku
+    - nominální (???? kolik toho máme)
+    - reálná (za kolik to prodáme)
+    - dividenda (podíl na zisku za jednu akcii)
+- založit může i právnická a fyzická osoba
+- ručí akciemi
+- vklad min. 2 000 000 Kč pro vstup na burzu 20 000 000 Kč (musí to schválit burza)
+- valná hromada
+    - představenstvo (aspoň tři osoby)
+    - dozorčí rada (povinná)
+
+### Info ohledně testu
+podnikatelsky zamer + spolecnosti
