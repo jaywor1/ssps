@@ -193,3 +193,37 @@ $$ x -3 -x + 3 = 0 $$
 $$ 0 = 0 $$
 
 $$ K = \lbrace 4 ; 5 ; 6 ; ... \rbrace $$
+
+
+Podm. + řešte: 
+
+$$ 2\binom{x+6}{x+4} - \binom{x+4}{x+2} = 4! + \binom{5}{2}x $$
+
+Podmínky:
+
+$$ x \ge -2 ; x \in Z $$
+
+Řešení:
+
+$$ 2 * {(x+6)! \over (x+4)!2!} - {(x+4)! \over (x+2)!2!} = 24 + {5! \over 2!3!}x $$
+
+$$ 2(x+6)(x+5) - (x+4)(x+3) = 48 + 20x $$
+
+$$ 2x^2 + 22x + 60 - x^2 -7x - 12 - 48 - 20x = 0 $$
+
+$$ x^2 - 5x = 0 $$
+
+$$ x_1 = 0 $$
+$$ x_2 = 5 $$
+
+$$ K = \lbrace 0;5 \rbrace $$
+
+## Kombinatorika - Pascalův trojúhelník
+
+![Image](../images/maths/pascals_triangle.jpg)
+
+### Binomická věta
+
+$$ n \in N $$
+
+$$ (a+b)^n = \binom{n}{0}a^nb^0 + \binom{n}{1}a^{n-1}b^1 + \dots \binom{n}{n-1}a^1b^{n-1} + \binom{n}{n}a^0b^n $$
