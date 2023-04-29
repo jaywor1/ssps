@@ -220,10 +220,22 @@ $$ K = \lbrace 0;5 \rbrace $$
 
 ## Kombinatorika - Pascalův trojúhelník
 
-![Image](../images/maths/pascals_triangle.jpg)
+<p align="center"><img src="../images/maths/pascals_triangle.jpg"/></p>
 
 ### Binomická věta
 
 $$ n \in N $$
 
 $$ (a+b)^n = \binom{n}{0}a^nb^0 + \binom{n}{1}a^{n-1}b^1 + \dots \binom{n}{n-1}a^1b^{n-1} + \binom{n}{n}a^0b^n $$
+
+#### Příklady
+
+Příklad 1
+
+$$ (x^3 - {2 \over x^2})^5 = (x^3)^5(-{2 \over x^2})^0 + 5(x^3)^4(-{2 \over x^2})^1 + 10(x^3)^3(-{2 \over x^2})^2 + 10(x^3)^2(-{2 \over x^2})^3 + 5(x^3)^1(-{2 \over x^2})^4 + (x^3)^0(-{2 \over x^2})^5 = x^{15} - 10x^{10} + 40x^5 - 80 + 80x^{-5} - 32x^{-10} $$
+
+Příklad 2
+
+$(-{1 \over x^2} - 2x^3)^{16}$... patnáctý člen
+
+$$ \binom{16}{14} (-{1 \over x^2})^2 (-2x^3)^{14}  =  1 966 080 x ^ {38} $$
