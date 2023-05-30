@@ -239,3 +239,12 @@ Příklad 2
 $(-{1 \over x^2} - 2x^3)^{16}$... patnáctý člen
 
 $$ \binom{16}{14} (-{1 \over x^2})^2 (-2x^3)^{14}  =  1 966 080 x ^ {38} $$
+
+
+## Kombinatorika - Slovní úlohy
+
+### Kombinatorické pravidlo součtu a součinu
+
+Podmínka A **nebo** B => $A+B$
+
+Podmínka A **i** => $A*B$
