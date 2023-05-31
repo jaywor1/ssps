@@ -54,5 +54,12 @@
     - představenstvo (aspoň tři osoby)
     - dozorčí rada (povinná)
 
+### Komanditní společnost (k. s.)
+
+- Min. 2 společníci
+- Komplementář - ručí svým majetkem, nemá povinný vklad, řídí firmu
+- Komandista - povinný vklad, ručí pouze vkladem, neřídí firmu
+- Společenská smlouva
+
 ### Info ohledně testu
 podnikatelsky zamer + spolecnosti
