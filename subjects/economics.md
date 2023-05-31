@@ -37,7 +37,7 @@
     - organizace
 - Jednatel (může být právnická osoba)
 - Dozorčí rada (nepovinná)
-    - kontrola valné hromady
+    - kontrola jednatelů
 
 ### Založení x vznik
 - společnost vzniká až v zápisu do obchodního rejstříku
