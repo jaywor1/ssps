@@ -63,3 +63,14 @@
 
 ### Info ohledně testu
 podnikatelsky zamer + spolecnosti
+
+### Družstva
+- vznik polovina 19. století
+- zapsána v obchodním rejstříku
+- společný jenom prodej vína
+- orientované na spotřební věci
+- součastnost:
+    - zemědělská družstva
+    - bydlení => cíl funkčnost (technický stav a zabezpečení)
+    - výroba
+    - obchod
