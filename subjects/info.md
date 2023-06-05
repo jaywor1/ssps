@@ -7,3 +7,23 @@ Info ohledně sspš
 
 ### Garant
 - nejlépe někdo, kdo má čas a komunikuje
+
+## Maturita - Český jazyk
+
+### Ústní část
+
+Míň než 15 minut na popsání díla, které si vytáhnete.
+
+Čeká se, že popíšete:
+
+- autora
+  - poměry
+  - motivace
+- období
+  - co se dělo na literární scéně
+- dílo
+  - hlavní téma
+  - děj
+  - žánr
+  - forma
+  - styl
