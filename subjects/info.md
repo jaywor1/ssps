@@ -28,3 +28,15 @@ Míň než 15 minut na popsání díla, které si vytáhnete.
   - žánr
   - forma
   - styl
+
+- Ustní > písemka
+
+### Můj seznam čertby
+
+3. ročník:
+- Oscar Wilde - Jak je důležité míti Filipa
+- Guillaume Apollinaire - Kaligramy
+- Franz Kafka - Proměna
+- Karel Čapek - R.U.R.
+- Jiří Walker - Těžká hodina
+- Viktor Dyk - Krysař
