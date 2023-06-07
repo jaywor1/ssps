@@ -248,3 +248,16 @@ $$ \binom{16}{14} (-{1 \over x^2})^2 (-2x^3)^{14}  =  1 966 080 x ^ {38} $$
 Podmínka A **nebo** B => $A+B$
 
 Podmínka A **i** B => $A*B$
+
+## Pravděpodobnost
+- nezávislého jevu A
+
+$$ P(A) = {a \over m} $$
+
+$ a \dots $ počet všech možností považovaných za správné
+
+$ m \dots $ počet všech možností
+
+$$ P(A \cap B) = P(A) * P(B) $$
+
+$$ P(A \cup B) = P(A) + P(B) $$
