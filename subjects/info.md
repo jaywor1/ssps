@@ -35,8 +35,7 @@ Míň než 15 minut na popsání díla, které si vytáhnete.
 
 3. ročník:
 - Oscar Wilde - Jak je důležité míti Filipa
-- Guillaume Apollinaire - Kaligramy
-- Franz Kafka - Proměna
+- George Bernard Shaw - Pygmalion
 - Karel Čapek - R.U.R.
 - Jiří Walker - Těžká hodina
 - Viktor Dyk - Krysař
