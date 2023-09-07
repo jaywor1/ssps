@@ -25,7 +25,10 @@ Získávání, zpracovávání a vyhodnecení dat
     - $i$ - hodnota
 - četnost
     - absolutní $\dots n_i \dots$ součet $= n$
-    - relativní $\dots v_i = {n_i \over n} ( * 100 \%) \dots $ součet $= 1 = 100\%$
+    - relativní $\dots v_i = {n_i \over n} (* 100 )$ %
+      $\dots$
+      součet
+      $= 1 = 100$%
 - tabulka rozdělení četností
 
 | $x_i$   |      <      |  < |
@@ -54,19 +57,19 @@ $n = 24$
 
 #### Relativní četnost
 
-$v_{39} = {3\over24} = 12,50 \%$
+$v_{39} = {3\over24} = 12,50$%
 
-$v_{40} = {2\over24} = 8,34 \%$
+$v_{40} = {2\over24} = 8,34$%
 
-$v_{41} = {7\over24} = 29,17 \%$
+$v_{41} = {7\over24} = 29,17$%
 
-$v_{42} = {8\over24} = 33,34 \%$
+$v_{42} = {8\over24} = 33,34$%
 
-$v_{43} = {3\over24} = 12,50 \%$
+$v_{43} = {3\over24} = 12,50$%
 
-$v_{45} = {1\over24} = 4,17 \%$
+$v_{45} = {1\over24} = 4,17$%
 
-Chyba $0,02\%$
+Chyba $0,02$%
 
 #### Vhodný diagram
 
