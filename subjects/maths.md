@@ -1,4 +1,4 @@
-# Maths 🧮
+# Matematika 🧮
 
 ## Témata
 

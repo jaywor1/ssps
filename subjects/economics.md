@@ -1,4 +1,4 @@
-# Economics 📈
+# Ekonomika 📈
 
 ## Podnikání právnické osoby
 - Státní podniky

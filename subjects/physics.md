@@ -1,4 +1,4 @@
-# Physics 🍎
+# Fyzika 🍎
 
 ## Indukované napětí a proud
 

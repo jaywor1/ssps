@@ -1,4 +1,4 @@
-# Czech 📕
+# Čeština 📕
 
 ## Česká meziválečná poezie
 
