@@ -39,6 +39,12 @@ Získávání, zpracovávání a vyhodnecení dat
     - polohy - kde se nachází hodnoty?
     - variabilita - rozptyl
 
+### Charakteristiky polohy
+
+#### Aritmetický průměr
+
+$$ \bar{x} = {1 \over n}\sum{x_i} $$
+
 ## Praxe 🥳
 
 ### Příklad prodané velikosti bot
@@ -76,3 +82,7 @@ Chyba $0,02$%
 Kruhový
 
 ![image](/images/maths/pie_chart.png)
+
+#### Průměry
+
+TODO
