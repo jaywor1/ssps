@@ -21,3 +21,17 @@ Emigrace:
 - Voskovec
 - Werich
 - Hostovský
+
+### Situace
+
+- exilová centra: Moskva, Londýn, NY
+- příklon k socialismu (Rudá armáda)
+
+### Poezie
+
+- Seifert
+    - *Světlem oděná* (Krásy Prahy)
+- Josef Hora
+    - *Jan Houslista*
+- František Halas
+    - *Ladění*
