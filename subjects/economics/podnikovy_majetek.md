@@ -51,3 +51,30 @@ Fun facts:
 - doba vlastnění/používání > 1 Rok
 - příklady:
     - obrazy
+
+## Evidence podnikového majetku
+- Zákon o účetnictví/daňové zákony
+
+#### 1. Skladní karty (evidence oběžného majetku)
+- průběžný záznam
+- příbítky
+    - přijemky (přijímání do skladu)
+- úbytky (spotřeba, krádež)
+    - výdejky (vydávat do skladu)
+- konečné stavy
+
+#### 2. Inventární karty (evidence dlouhodobého majetku)
+- velmi podrobné
+    - výrobce
+    - technický stav
+    - technické parametry
+    - doporučení
+- způsob účtování
+
+#### 3. Inventarizace
+- komplexní soubor činností
+    - inventura - podrobné zjištění skutečného a účetního podnikového majetku
+    - vyřešení rozdílu - vyřešení zjištění rozdílů
+
+#### 4. Manka a škody na podnikovém majetku
+- manko - rozdíl mezi skutečným stavem a stavem dokladovým (zaviněné/nezaviněné)2
