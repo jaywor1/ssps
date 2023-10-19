@@ -35,3 +35,12 @@ Emigrace:
     - *Jan Houslista*
 - František Halas
     - *Ladění*
+
+### Próza
+- Vančura
+    - *Obrazy z dějin národa českého*
+- Kubín
+    - sběratel, zvl. lidové povídky z Podkrkonoší
+    - *Jivínské rapsodie*
+- Jirotka
+    - *Saturnin*
