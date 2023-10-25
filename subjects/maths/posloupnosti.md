@@ -47,3 +47,21 @@ $$a_n = 3n - 1$$
 ### Rekurentně
 
 $$ a_1 = 1; a_{n+1} = 2a_n +1 $$
+
+## Typy posloupností
+
+### Aritmetická
+
+$$a_n=a_1+(n-1) * d$$
+
+$$a_r=a_s+(r-s) * d$$
+
+$$s_n=\frac{n*(a_1+a_n)}{2}$$
+
+### Geometrická
+
+$$a_r=a_s * q^{r-s}$$
+
+$$s_n=n*a_1 ; q = 1$$
+
+$$s_n=a_1*\frac{q^n-1}{q-1} ; q \not= 1;0$$

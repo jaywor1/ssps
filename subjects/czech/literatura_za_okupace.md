@@ -44,3 +44,20 @@ Emigrace:
     - *Jivínské rapsodie*
 - Jirotka
     - *Saturnin*
+
+### Válečná generace
+- vyrůstá v době krizde demokracie a humanismu
+- *Jarní almanach básnický 1940*, *Chvála slova*
+- motiv "nahého člověka" (bez konvencí, ideologií)
+- Jiří Orten
+    - *Čítanka jaro* - wolkerovsky pozitivní
+    - *Ohince* - nástup strahosti a drsnosti, existencialismus
+- Skupina 42
+    - více úhlů pohledu, útržky, fragmenty, "koláž"
+    - **Jindřich Chalupecký**
+        - manifest
+        - *Svět v němž žijeme*
+    - básníci
+        - **Ivan Blatný**
+        - **Jiří Kolář**
+        - **Josef Kainar**
