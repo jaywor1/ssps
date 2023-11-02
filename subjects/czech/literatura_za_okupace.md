@@ -54,6 +54,7 @@ Emigrace:
     - *Ohince* - nástup strahosti a drsnosti, existencialismus
 - Skupina 42
     - více úhlů pohledu, útržky, fragmenty, "koláž"
+    - život ve městě
     - **Jindřich Chalupecký**
         - manifest
         - *Svět v němž žijeme*
