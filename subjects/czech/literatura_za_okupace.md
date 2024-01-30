@@ -62,3 +62,12 @@ Emigrace:
         - **Ivan Blatný**
         - **Jiří Kolář**
         - **Josef Kainar**
+
+#### Ladislav Fuks
+- komunista
+- psychologické prózy se zaměřením na druhou světovou
+- Spalovač mrtvol
+    - *Z prachu jsme vzešli, v prach se zase obrátíme*
+    - forma: próza
+    - druh: epika
+    - žánr: hororová novela

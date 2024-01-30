@@ -16,7 +16,7 @@ Cyklus:
     - Banky (pouze peníze a pohledávky)
     - Výroba (všechny položky)
     - Supermarkety (peníze, zboží, pohledávky)
-- 
+
 
 Fun facts:
 - Suroviny == nezpracovaný materiál
