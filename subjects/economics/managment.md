@@ -66,3 +66,27 @@
     - PR (public relations)
 
 Vždy se používají všechny marketingové nástroje s důrazem na konkrétní produkt či službu.
+
+#### Segmentace trhu
+
+- rozdělování/rozčlenování podle určitých parametrů
+- parametry
+    - věk
+    - obor
+    - pohlaví
+    - zkušenosti
+    - sociální situace
+        - rodinný stav
+    - ekonomická situace
+        - majetek
+        - příjem
+    - region
+
+Cílem je využít znalosti ze segmentace a co nejlépe se zaměřit na konkrétni skupinu zákazníků.
+
+### Otázky
+
+- Co je managment/překlad
+- Co je marketing
+- Zdroje marketingu
+- Nástroje
