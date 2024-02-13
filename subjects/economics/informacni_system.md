@@ -1,4 +1,4 @@
-# Informační systém podniku
+# Ekonomika - Informační systém podniku
 
 Informace - údaj s významem
 
