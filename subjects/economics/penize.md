@@ -47,3 +47,27 @@ Mínusy
 - technologická závislost
 - sankce
 - poplatky
+
+### Banka
+
+- platební doklady (klient-banka)
+- příkaz k úhradě
+    - jednorázový
+    - trvalý
+    - příkaz k inkasu - pokyn dává příjemce částky aby čerpala částku z nějakého účtu
+        - částka může být variabilní
+        - jde limitovat časově i peněžně
+    - SIPO
+        - Sdružené inkasní platby obyvatelstva
+        - pošta pošle vyučtování SIPO
+    - Šek
+        - vystavené na konkrétního člověka
+
+#### Fun facts
+
+- pokladní složenka
+    - výčetka platidel
+
+## Bankovní soustava ČR
+
+### ČNB
