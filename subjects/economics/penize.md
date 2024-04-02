@@ -71,3 +71,29 @@ Mínusy
 ## Bankovní soustava ČR
 
 ### ČNB
+
+- státní peněžní ústav
+- vypouštění/emise měny
+- licence pro komerční banky
+- účty státního rozpočtu
+- spolupracuje s vládou
+- ovlivňuje oběh měny přes úrokové sazby
+- zahraniční spolupráce
+    - spolupráce s jinými státy/organizace jako ECB, OSN,...
+- intervence
+    - ovlivňování měny z podpory exportu (oslabování koruny)
+- zúčtovací centrum komerčních bank
+
+### Komerční banky
+
+- právnické osoby v obchodním rejstříku
+- akciová společnost
+- licence od ČNB
+    - většinou odebírána pro nedodržení rezerv
+- **aktivní**
+    - klient je v roli dlůžníka a banka v roli věřitele (úvěru)
+- **pasivní**
+    - klient je v roli věřitele a banka v roli dlužníka (spoření)
+- **neutrální**
+    - banka ani klient nejsou v roli dlužníka a věřitele
+    - makléřské služby, převody mezi účty, poradenství
