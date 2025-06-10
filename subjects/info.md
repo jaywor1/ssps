@@ -33,9 +33,23 @@ Míň než 15 minut na popsání díla, které si vytáhnete.
 
 ### Můj seznam čertby
 
-3. ročník:
-- Oscar Wilde - Jak je důležité míti Filipa
-- George Bernard Shaw - Pygmalion
-- Karel Čapek - R.U.R.
-- Jiří Walker - Těžká hodina
-- Viktor Dyk - Krysař
+- Sofoklés	Král Oidipus
+- Molière	Lakomec
+- W. Shakespeare	Romeo a Julie
+- J. Swift	Gulliverovy cesty
+- O. Wilde	Jak je důležité míti Filipa
+- Guy de Maupassant	Miláček
+- N. V. Gogol	Revizor
+- E. A. Poe	Havran
+- G. Orwell	1984
+- G. Orwell	Farma Zvířat
+- I. Asimov	Já, robot
+- F. Christiane	My děti ze stanice ZOO
+- A. de S. Exupéry	Malý princ
+- R. Bradbury	451 stupňů Fahrenheita
+- K. Čapek	R.U.R.
+- K. Čapek	Bílá nemoc	
+- V. Dyk	Krysař
+- J. Wolker	Těžká hodina
+- F. Gellner	Radosti života
+- B. Hrabal	Ostře sledované vlaky
